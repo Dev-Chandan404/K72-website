@@ -190,7 +190,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **Let's Connect** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
 
 <p align="center">
-  <a href="mailto:chandankumar404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:dev.chandankumar404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Dev-Chandan404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://k72-0.netlify.app"><img src="https://img.shields.io/badge/Live_Site-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site" /></a>
 </p>
