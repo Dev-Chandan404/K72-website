@@ -31,7 +31,8 @@
 <br/>
 
 <a href="https://k72-0.netlify.app">
-  <img src="https://api.screenshotone.com/take?url=https://k72-0.netlify.app&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="K72 Website Preview" width="90%" />
+
+<img src="https://i.ibb.co/wNhyMdp0/k72.png" alt="k72"  width="90%"> />
 </a>
 
 *K72 — Cinematic creative agency experience*
